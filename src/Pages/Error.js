@@ -7,9 +7,9 @@ export default function Error() {
   return (
     <div>
       <Hero>
-      <Banner title='hi' subtitle='Error Not Found' >
+      <Banner title='404' subtitle='Page Not Found' >
         <Link to='/rooms' className='btn-primary' >
-          Back Home
+          Return Home
         </Link>
       </Banner>
      </Hero> 

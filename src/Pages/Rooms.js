@@ -6,7 +6,7 @@ export default function Rooms() {
   return (
     <div>
      <Hero hero={'roomsHero'}>
-      <Banner title ='Rooms' subtitle ='Resrver Now' >
+      <Banner title ='Our Rooms' >
         <Link to ='/' className='btn-primary' >
           Back Home
         </Link>
