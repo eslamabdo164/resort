@@ -6,8 +6,11 @@ import Rooms from './Pages/Rooms';
 import SingleRoom from './Pages/SingleRoom';
 import Error from './Pages/Error';
 import Navbar from './component/Navbar';
+
 // Routing Imports 
 import {Route , Switch} from 'react-router-dom' ;
+
+
 const App = function App() {
     return(
         <div className='app' >
